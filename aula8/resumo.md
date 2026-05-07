@@ -116,4 +116,9 @@ Criar projetos com diferentes frameworks
 Utilizar versionamento com Git
 Publicar aplicações na web
 Trabalhar com projetos reais e reutilização de código
-    
+
+🔗 9. Links dos projetos em produção
+
+- **React:** [https://meu-projeto-react-flame.vercel.app](https://meu-projeto-react-flame.vercel.app)
+- **Angular:** [https://meu-projeto-angular-nine.vercel.app/](https://meu-projeto-angular-nine.vercel.app/)
+- **Vue:** [https://meu-projeto-vue-zeta.vercel.app](https://meu-projeto-vue-zeta.vercel.app)
