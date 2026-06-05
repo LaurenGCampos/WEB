@@ -118,3 +118,7 @@ Documentar todo o processo no GitHub, incluindo prints e links do site.
 
 ✅ Conclusão:
 O uso de serviços de hospedagem, registro de domínio e sistemas de gerenciamento de conteúdo como o WordPress facilita a criação e manutenção de sites, permitindo personalização e publicação de conteúdo de forma prática e eficiente.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

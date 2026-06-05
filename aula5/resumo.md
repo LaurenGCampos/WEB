@@ -164,3 +164,6 @@ Funções importantes:
 
 https://projetouber.vercel.app/
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

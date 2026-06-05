@@ -97,3 +97,7 @@ A atividade proposta consiste em:
 O versionamento de código com **Git** é essencial para organizar o desenvolvimento, manter histórico de mudanças e facilitar o trabalho em equipe. Já o **deploy** permite publicar a aplicação na internet de forma automatizada e segura.
 
 https://fish-academy.vercel.app/
+
+<div align="center">
+  <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

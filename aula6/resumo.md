@@ -81,3 +81,7 @@ Website Builders facilitam muito a criação de sites, principalmente para quem 
 Com a chegada da IA, o processo está ficando mais rápido, inteligente e acessível, mas ainda existem limitações em personalizações avançadas comparadas aos CMS.
 
 https://conectatea-rho.vercel.app/
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

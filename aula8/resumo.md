@@ -122,3 +122,7 @@ Trabalhar com projetos reais e reutilização de código
 - **React:** [https://meu-projeto-react-flame.vercel.app](https://meu-projeto-react-flame.vercel.app)
 - **Angular:** [https://meu-projeto-angular-nine.vercel.app/](https://meu-projeto-angular-nine.vercel.app/)
 - **Vue:** [https://meu-projeto-vue-zeta.vercel.app](https://meu-projeto-vue-zeta.vercel.app)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

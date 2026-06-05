@@ -74,3 +74,7 @@ Ela permite:
 
 Conclusão:
 A definição de escopo, o planejamento do backlog, o uso de user stories, wireframes e protótipos são etapas essenciais no desenvolvimento de aplicações web, pois ajudam a organizar o projeto, alinhar expectativas e melhorar a experiência do usuário.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

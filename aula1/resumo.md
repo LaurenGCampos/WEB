@@ -45,3 +45,7 @@ Criação de um repositório no GitHub com um resumo da Aula 01 em Markdown;
 Análise de três sites, identificação das tecnologias utilizadas e elaboração de um mapa visual colaborativo no Miro, salvo no repositório.
 
 A aula concluiu com a contextualização da disciplina e o alinhamento das expectativas para o semestre.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

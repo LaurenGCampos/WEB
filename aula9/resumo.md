@@ -178,3 +178,7 @@ Criar APIs REST
 Entender comunicação cliente-servidor
 Utilizar Express.js na prática
 Publicar aplicações online
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Programming GIF" width="70%" />
+</div>

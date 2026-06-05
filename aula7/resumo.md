@@ -127,4 +127,6 @@ E depois:
 
 Frameworks front-end (como React, Angular e Vue) ajudam a criar aplicações web modernas de forma mais rápida, organizada e eficiente, usando componentes e automações.
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Programming GIF" width="70%" />
+</div>
